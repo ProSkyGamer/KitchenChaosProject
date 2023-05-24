@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dae7909a874449498b79893fe335975, type: 3}
+  m_Name: CuttingTomato
+  m_EditorClassIdentifier: 
+  coinsCost: 15
+  purchaseImage: {fileID: 21300000, guid: 91e8fe3de9249fc44b7bdd8050062896, type: 3}
+  oldCuttingRecipe: {fileID: 11400000, guid: 9f0bfa12cf1288742a049bde4e003114, type: 2}
+  newCuttingRecipe: {fileID: 11400000, guid: 5440f45189dd29a4693a39b693994375, type: 2}
